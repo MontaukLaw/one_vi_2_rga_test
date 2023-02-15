@@ -1,0 +1,3 @@
+/home/marc/ai/double_vi_channel/cmake-build-debug/CMakeFiles/double_vi_test.dir
+/home/marc/ai/double_vi_channel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marc/ai/double_vi_channel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
