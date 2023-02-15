@@ -749,6 +749,8 @@ int main(int argc, char **argv) {
         return -1;
     }
 
+
+
     // 从vi中获取数据，然后那推理结果，画框子，然后送进编码器
     // pthread_create(&venc0_thread_id, NULL, venc0_thread, NULL);
     // pthread_create(&venc1_thread_id, NULL, venc1_thread, NULL);
